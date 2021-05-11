@@ -1,4 +1,4 @@
-### 🐒 What's good gamers, it's me. Chris.
+### 🐒 What's good, gamers? I'm Chris.
 
 <!--
 **t-chris/t-chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
